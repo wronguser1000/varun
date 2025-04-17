@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Open PDF with Link</title>
+  <style>
+    .pdf-button {
+      padding: 10px 20px;
+      font-size: 16px;
+      text-decoration: none;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+
+  <a href="Assignment webpage uid 30.docx" target="_blank" class="pdf-button">Open PDF</a>
+
+</body>
+</html>
